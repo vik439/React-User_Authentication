@@ -8,6 +8,7 @@ const Dashboard = () => {
 
   return (
     <div className="dashboard">
+      <h1>This is the Dashboard</h1>
       <h2>Welcome, {user.name}</h2>
       <h3>All Signed-up Users:</h3>
       <ul>
